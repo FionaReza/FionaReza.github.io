@@ -10,6 +10,7 @@ A responsive academic portfolio for Fiona Reza, built with plain HTML, CSS, and 
 - `project.html` — Projects I have worked on
 - `publications.html` — My Publications
 - `teaching.html` — Teaching Experience
+- `awards.html` — Scholarships and Awards
 - `cv.html` — CV
 - `contact.html` — Contact
 
